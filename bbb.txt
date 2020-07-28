@@ -1,2 +1,2 @@
 this is bbb.txt
-this is a bug!!!
+this bug is fixed!!
